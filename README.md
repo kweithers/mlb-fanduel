@@ -4,7 +4,7 @@ This repository is for a MLB Fantasy Sports Project that contains 3 roughly part
 
 2. Train a xgboost model to predict player scores
 
-3. Run a multiple constraints knapscack optimzation problem to find the best lineup for a given day
+3. Run a multiple constraints knapsack optimzation problem to find the best lineup for a given day
 
 Here is an example output:
 
